@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
   s.source_files = 'ScreenOrientation/Classes/**/*'
-  spec.swift_versions   = '5.0'
+  s.swift_versions   = '5.0'
   
   # s.resource_bundles = {
   #   'ScreenOrientation' => ['ScreenOrientation/Assets/*.png']
