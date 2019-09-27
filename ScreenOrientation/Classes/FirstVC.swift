@@ -58,9 +58,7 @@ class FirstVC: UIViewController {
     //MARK: - action
     
     @objc func onClickJumpToNextPageBtnAction(){
-        //进入下一页面，转换为横屏
-        let rotation : UIInterfaceOrientationMask = [.landscapeLeft, .landscapeRight]
-        
+        //进入下一页面，转换为横屏        
         let secondVC = SecondVC()
         navigationController?.pushViewController(secondVC, animated: true)
     }
