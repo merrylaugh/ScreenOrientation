@@ -1,6 +1,6 @@
 {
   "name": "ScreenOrientation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "屏幕旋转",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/wangyajuan/ScreenOrientation",
@@ -13,10 +13,12 @@
   },
   "source": {
     "git": "https://github.com/merrylaugh/ScreenOrientation.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ScreenOrientation/Classes/**/*"
+  "source_files": "ScreenOrientation/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }

@@ -213,10 +213,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 99PJ6X3Z7H;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = 99PJ6X3Z7H;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -503,6 +505,7 @@
 			baseConfigurationReference = 12FFA16F8BD337F22FACD374 /* Pods-ScreenOrientation_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 99PJ6X3Z7H;
 				INFOPLIST_FILE = ScreenOrientation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -518,6 +521,7 @@
 			baseConfigurationReference = A5D7B67EF1D5E36A5C541123 /* Pods-ScreenOrientation_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 99PJ6X3Z7H;
 				INFOPLIST_FILE = ScreenOrientation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -532,6 +536,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5BA2AAD69D9FB3EA8BDE55A1 /* Pods-ScreenOrientation_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 99PJ6X3Z7H;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -554,6 +559,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4366917D9DD855D8A3BC5D2D /* Pods-ScreenOrientation_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 99PJ6X3Z7H;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",

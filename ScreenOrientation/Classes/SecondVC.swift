@@ -65,7 +65,6 @@ class SecondVC: UIViewController {
     
     @objc func onClickBackBtnAction(){
         //设置竖屏
-        kAppdelegate?.blockRotation = .portrait
         navigationController?.popViewController(animated: true)
     }
     
